@@ -33,5 +33,7 @@ WebUI.verifyGreaterThan(value1, 0)
 
 WebUI.verifyGreaterThanOrEqual(value1, 180000)
 
-WebUI.verifyLessThan(value1, 0)
+WebUI.verifyLessThan(value1, 300000)
+
+WebUI.verifyNotEqual(value1, 200000)
 
