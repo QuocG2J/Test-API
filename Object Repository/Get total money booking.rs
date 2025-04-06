@@ -146,7 +146,7 @@
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://go2joyserverphp-ha-uat.go2joy.io/api/v1/web/ha/user-bookings/3057896/details</restUrl>
+   <restUrl>https://go2joyserverphp-ha-uat.go2joy.io/api/v1/web/ha/user-bookings/3058030/details</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
