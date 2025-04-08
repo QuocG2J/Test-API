@@ -22,8 +22,7 @@ import internal.GlobalVariable
 
 public class Commission {
 	@Keyword
-	def tinhCommission (float hotelCommision, float productCommission)
-	 {
+	def tinhCommission (float hotelCommision, float productCommission) {
 		if (GlobalVariable.productValue > 0) {
 			GlobalVariable.totalCommission = (((GlobalVariable.totalAmount - GlobalVariable.productValue) - (GlobalVariable.totalHotelDiscount)) * hotelCommision / 100) + (GlobalVariable.productValue * productCommission / 100)
 		}

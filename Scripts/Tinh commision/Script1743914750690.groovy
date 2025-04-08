@@ -35,7 +35,7 @@ if ((result1.data.hotelProductList[0]) != null) {
 
 GlobalVariable.totalHotelDiscount = result1.data.totalHotelDiscount
 
-CustomKeywords.'tinhCommision.Commission.tinhCommission'(15.0, 10)
+CustomKeywords.'tinhCommision.Commission.tinhCommission'(15.0, 0)
 
 println(GlobalVariable.totalCommission)
 

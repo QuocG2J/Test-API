@@ -34,7 +34,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJzY29wZVwiOlwid2ViXCIsXCJzblwiOjU3NDMsXCJob3RlbFNuXCI6MTIyMixcInJvbGVTblwiOjR9IiwiZXhwIjoxNzQzOTMwNDM4LCJpc3MiOiJoYS1qd3QiLCJpYXQiOjE3NDM4NDQwMzh9.10MTf39LBG9M9TS2oZqNddRLCuZD4617w0700jXA2Ys</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJzY29wZVwiOlwid2ViXCIsXCJzblwiOjU3NDMsXCJob3RlbFNuXCI6MTIyMixcInJvbGVTblwiOjR9IiwiZXhwIjoxNzQ0MTkwMzA0LCJpc3MiOiJoYS1qd3QiLCJpYXQiOjE3NDQxMDM5MDR9.KcdYis8Kh5QrDO87bZixqk4bOXqKvMorSE945Om4at0</value>
       <webElementGuid>8f420e01-f171-49b4-a837-b41d0cfbe5a7</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
